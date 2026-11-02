@@ -1,0 +1,21 @@
+{
+  "name": "dracula-ikaraneshev",
+  "displayName": "dracula-ikaraneshev",
+  "description": "Modified Dracula theme by Ivo Karaneshev",
+  "version": "0.0.1",
+  "engines": {
+    "vscode": "^1.103.0"
+  },
+  "categories": [
+    "Themes"
+  ],
+  "contributes": {
+    "themes": [
+      {
+        "label": "Dracula",
+        "uiTheme": "vs-dark",
+        "path": "./themes/Dracula-color-theme.json"
+      }
+    ]
+  }
+}
